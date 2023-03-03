@@ -1,11 +1,11 @@
 # Cyber_Security-SERB-INAE-2022
 
-###Tean member:
+### Team member:
 1. Daita Sur
 2. Swarna Jha
-3.Riddhi Pratim Shee
+3. Riddhi Pratim Shee
 
-###Problem Statement:
+### Problem Statement:
 Application to manage access control to a defined set of applications based
 on user profile.
 
@@ -23,7 +23,7 @@ Backend of admin control system is created using node.js and tensorflow. By defa
 ![p4](https://user-images.githubusercontent.com/68693240/222720880-a531a1b6-4565-4312-83b3-856c9479ea13.png)
 
 
-###Brief about the Project:
+### Brief about the Project:
 We have divided the user into two parts:
 
 1) Admin
@@ -33,7 +33,7 @@ Our App system is for the users .
 And the backend will act as the Admin panel.
 Both the ends will be connected to each other.
 
-####Admin Access Control
+#### Admin Access Control
 
 The admin will be alloting permission to the user for access any particular
 application in that system.
@@ -46,7 +46,7 @@ Admin will provide the Permissions manaully , no automation is there.
 We can further add a feature of acess permssion in accordance to the time of
 requirement of the user and need.
 
-####User accessbility
+#### User accessbility
 
 The System can be used by multiple users at a time.
 
@@ -60,17 +60,17 @@ Additionally, We thought of building an Chat Interface between the user and
 the admin ,so they might get to know the reason of deniel ,if felted so.This will
 bring trust between the user and admin, hence promoting our website.
 
-Features we are providing in the App
+#### Features we are providing in the App
 
-* LOGIN/SIGNUP -Login/signup pages are created for multiple users with high password checkup security.
+* LOGIN/SIGNUP- Login/signup pages are created for multiple users with high password checkup security.
 
 * ACCESS CONTROL- No one otherthan the admin can access a particular application without the permission of admin.
 
 * MULTI FILE SELECTION- At once multiple file can be selected and request can be made for accessing those file, hence will be time saving.
 
-###Technologies Used:
+### Technologies Used:
 1. Android Studio Code (libaries like generated(java) and inbuild libraries.)
 2. Postman
-3.Tensorflow
-4.Open source Nodejs
-5.Visual Studio code
+3. Tensorflow
+4. Open source Nodejs
+5. Visual Studio code
